@@ -1,6 +1,6 @@
 # Jeuxpoo
 
-Nombres de groupe:
+Membres de groupe:
 
 Adjerad Omar 232331674018
 Bahri nourhane 232331604813
